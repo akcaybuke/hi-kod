@@ -1,0 +1,20 @@
+#Yapay Zeka, Makine Öğrenmesi,Derin Öğrenme,Sinir Ağları (Neural Network)
+
+Bu sıklıkla birbirleri yerine kullanılan ve karıştırılan terimler için IBM blog yazısında güzel bir benzetme yapmıştı. Açıklamaya çalışırken 
+ben de aynı benzetme üzerinden gitmek istiyorum: Matruşka bebekler. En büyük bebek içindeki bütün bebekleri içermektedir(AI/Yapay Zeka) ancak bu küçük bebeklerin 
+kendi başlarına bir oyuncak bebek olduğu gerçeğini değiştirmez. 
+
+Örneğimizde en içte olan ve dolayısıyla da en küçük olan bebek Sinir Ağları (Neural Network) bir problemi çözmek için kurduğumuz lineer bir regresyon modeli
+gibidir. İnputlarımızı girdiğimizde outputa doğrusal bir yol çizmektedir. Böylece ne karar vereceğimiz hakkında yol gösterici olabilmektedir. 
+
+Derin öğrenme, sinir ağlarını kapsar. Başka bir ifadeyle sinir ağlarından sonra en küçük bebek derin öğrenmedir. Derin öğrenmeyi "derin" yapan sinir ağlarının birkaç
+katmanlı olmasıdır. (Derin öğrenme olarak sayılabilmesi için en az üç katman gerekmektedir.) 
+
+Tahmin edilebileceği üzere derin öğrenme de makine öğrenmesinin bir alt kümesidir. (Makine öğrenmesi bebeği derin öğrenme bebeğini kapsar :)) "Derin olmayan" makine 
+öğrenmesinde daha çok insan katkısına ihttiyaç vardır. Modellerin insan müdahalesine ihtiyaç duyması büyük data setlerinin kolayca kullanılmasının da önüne geçer.
+Aslında bugünkü modellerin büyük bir kısmı derin öğrenme modelleridir. Derin öğrenme ile çözülemeycek sorunlarda zorunlu olarak makine öğrenmesine geçilmiş olur. 
+(daha küçük data setleri ve daha fazla insan müdahalesi) 
+
+Son olarak en kapsamlı terim yapay zeka olarak karşımıza çıkmaktadır. Matruşka bebeğin en dış katmanı diğer tüm bebekleri kapsar. Şu an makineye öğretebildiklerimiz
+yapay zekanın içine girer. Öngörü başta olmak üzere test ve otomasyon görevleri, telefonumuzdaki yüz tanıma programı, hatta google translate yapay zeka kullanım 
+alanlarına örnek gösterilebilir. 
